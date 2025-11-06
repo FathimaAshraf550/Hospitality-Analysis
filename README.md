@@ -52,8 +52,8 @@ Built a **Star Schema** model to ensure optimized performance and easy DAX calcu
 - `fact_bookings`: Booking-level data (revenue, ratings, guests, booking platform)  
 - `fact_aggregated_bookings`: Aggregated capacity and successful bookings  
 
-🖼️ *Data Model Screenshot:*  
-![Data Model](Screenshot%202025-11-02%20224129.png)
+🖼️ *Data Model:*  
+<img width="1104" height="674" alt="Image" src="https://github.com/user-attachments/assets/c9f4f6da-19e2-43af-9a2d-7dd14566ec36" />
 
 ---
 
