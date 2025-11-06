@@ -62,17 +62,21 @@ Key measures created using **DAX**:
 - ADR (Average Daily Rate)  
 - DSRN (Daily Successful Room Nights)  
 - DBRN (Daily Booked Room Nights)  
-- DURN (Daily Utilized Room Nights)  
+- DURN (Daily Utilized Room Nights)
+- RevPAR (Revenue per Available Room)  
 - Occupancy %  
 - Realisation %  
 - Cancellation %  
-- No Show Rate  
-- RevPAR (Revenue per Available Room)
+- No Show Rate %
+
 
 ---
 
 ### 5. 📈 Dashboard Development
 An **interactive Power BI dashboard** was built with navigation, filters, and tooltips for seamless exploration.
+  🖼️ *Dashboard Mockup:* 
+  <img width="985" height="619" alt="Image" src="https://github.com/user-attachments/assets/e214c152-61a8-48cb-a41e-37b0171d2a79" />
+
 
 **Dashboard Views:**
 - **Executive Overview** – High-level summary of performance, key KPIs, and trends  
