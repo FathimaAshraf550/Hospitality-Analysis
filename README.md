@@ -83,19 +83,19 @@ An **interactive Power BI dashboard** was built with navigation, filters, and to
 
 **Executive Overview** – High-level summary of performance, key KPIs, and trends
 
-<img width="1275" height="735" alt="Image" src="https://github.com/user-attachments/assets/61775cb5-e262-4e3a-9c51-356dae90e942" />
+<img width="1275" height="720" alt="Image" src="https://github.com/user-attachments/assets/61775cb5-e262-4e3a-9c51-356dae90e942" />
 
 
   
  **Revenue Insights** – Revenue by city, category, booking platform, day type, and room class
  
-<img width="1285" height="728" alt="Image" src="https://github.com/user-attachments/assets/f5f5bbce-647c-4391-8627-c0917c5baeb2" />
+<img width="1285" height="718" alt="Image" src="https://github.com/user-attachments/assets/f5f5bbce-647c-4391-8627-c0917c5baeb2" />
 
 
   
 **Booking Insights** – Booking behavior, cancellations, and occupancy analysis
 
-  <img width="1330" height="732" alt="Image" src="https://github.com/user-attachments/assets/4aa397f1-be33-4c97-a32e-9a78fe858b20" />
+  <img width="1330" height="722" alt="Image" src="https://github.com/user-attachments/assets/4aa397f1-be33-4c97-a32e-9a78fe858b20" />
 
 
 
