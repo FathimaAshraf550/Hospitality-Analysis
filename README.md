@@ -74,14 +74,20 @@ Key measures created using **DAX**:
 
 ### 5. 📈 Dashboard Development
 An **interactive Power BI dashboard** was built with navigation, filters, and tooltips for seamless exploration.
+
   🖼️ *Dashboard Mockup:* 
   <img width="985" height="619" alt="Image" src="https://github.com/user-attachments/assets/e214c152-61a8-48cb-a41e-37b0171d2a79" />
 
 
 **Dashboard Views:**
-- **Executive Overview** – High-level summary of performance, key KPIs, and trends  
-- **Revenue Insights** – Revenue by city, category, booking platform, day type, and room class  
-- **Booking Insights** – Booking behavior, cancellations, and occupancy analysis  
+- **Executive Overview** – High-level summary of performance, key KPIs, and trends
+<img width="1283" height="735" alt="Image" src="https://github.com/user-attachments/assets/61775cb5-e262-4e3a-9c51-356dae90e942" />
+  
+- **Revenue Insights** – Revenue by city, category, booking platform, day type, and room class
+<img width="1295" height="728" alt="Image" src="https://github.com/user-attachments/assets/f5f5bbce-647c-4391-8627-c0917c5baeb2" />
+  
+- **Booking Insights** – Booking behavior, cancellations, and occupancy analysis
+  <img width="1340" height="732" alt="Image" src="https://github.com/user-attachments/assets/4aa397f1-be33-4c97-a32e-9a78fe858b20" />
 
 ---
 
