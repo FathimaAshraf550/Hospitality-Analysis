@@ -158,7 +158,7 @@ An **interactive Power BI dashboard** was built with navigation, filters, and to
 ---
 
 ## 📎 Additional Information
-🔗 **Dashboard Link (if published)**: [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/82dc011b-44be-4531-8e71-190c20b675d4/1d683deab3dba02e0868?experience=power-bi)  
+🔗 **Dashboard Link**: [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/82dc011b-44be-4531-8e71-190c20b675d4/1d683deab3dba02e0868?experience=power-bi)  
 
 🙏 Special thanks to **Codebasics** for inspiring and guiding this initiative.
 
