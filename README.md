@@ -153,12 +153,12 @@ An **interactive Power BI dashboard** was built with navigation, filters, and to
 | **Power BI** | Dashboarding & DAX |
 | **Power Query** | Data Cleaning & Transformation |
 | **Excel** | Data Exploration |
-| **GitHub** | Version Control & Documentation |
+
 
 ---
 
 ## 📎 Additional Information
-🔗 **Dashboard Link (if published)**: [View Interactive Dashboard](your-dashboard-link-here)  
+🔗 **Dashboard Link (if published)**: [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/82dc011b-44be-4531-8e71-190c20b675d4/1d683deab3dba02e0868?experience=power-bi)  
 
 🙏 Special thanks to **Codebasics**, **Indian Data Club**, and **DPD Zero** for inspiring and guiding this initiative.
 
