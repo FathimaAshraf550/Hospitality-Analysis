@@ -16,6 +16,10 @@ The project simulates a real-world business scenario where stakeholders rely on 
 - Interactive Dashboard Development
 - Business Insight Generation
 
+  ## 🔗 Dashboard
+
+**Live Dashboard:** [View Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiMDE1NDA1ZTEtNWIyNS00NmE5LWFlMjMtMTQ1NTgxNDIwYzBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## 📚 Key Learnings
 
 - Hospitality KPIs and business metrics
