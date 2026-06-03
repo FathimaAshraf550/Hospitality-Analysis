@@ -38,6 +38,4 @@ Data Analyst | Power BI | SQL
 
 📎 LinkedIn: https://www.linkedin.com/in/fathimaashraf7/
 
-📎 LinkedIn: https://www.linkedin.com/in/fathimaashraf7/
-
 ⭐ If you like this project, feel free to give it a star!
